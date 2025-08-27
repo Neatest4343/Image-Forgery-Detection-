@@ -28,4 +28,4 @@ if uploaded_file is not None:
     else:
         st.error("❌ This image is FAKE.")
 
-    st.info("ℹ️ Note: This is just a demo on trained kaggle dataset on random pictures.")
+    st.info("ℹ️ Note: This is just a demo on trained Kaggle dataset on random pictures.")
