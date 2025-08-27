@@ -144,3 +144,8 @@ weasel==0.4.1
 Werkzeug==3.0.3
 wrapt==1.16.0
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
+streamlit==1.35.0
+numpy<2
+opencv-python==4.12.0.88
+pillow
+
