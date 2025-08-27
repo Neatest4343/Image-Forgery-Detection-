@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2
 import numpy as np
 from PIL import Image
 import random
@@ -29,3 +28,4 @@ if uploaded_file is not None:
         st.error("❌ This image is FAKE.")
 
     st.info("ℹ️ Note: This is just a demo on trained kaggle dataset on random pictures.")
+
